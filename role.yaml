@@ -1,0 +1,17 @@
+apiVersion: v1
+items:
+- apiVersion: v1
+  kind: Role
+  metadata:
+    creationTimestamp: null
+    name: newpodview
+  rules:
+  - apiGroups:
+    - ""
+    attributeRestrictions: null
+    resources:
+    - pods
+    verbs:
+    - get
+kind: List
+metadata: {}
