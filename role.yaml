@@ -1,7 +1,7 @@
 apiVersion: v1
 items:
 - apiVersion: v1
-  kind: Role
+  kind: Role edited from master
   metadata:
     creationTimestamp: null
     name: newpodview
@@ -12,6 +12,6 @@ items:
     resources:
     - pods
     verbs:
-    - get
+    - get edited from master
 kind: List
 metadata: {}
