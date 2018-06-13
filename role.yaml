@@ -1,7 +1,7 @@
 apiVersion: v1
 items:
 - apiVersion: v1
-  kind: Role edited again :from origin/master origin origin origin
+  kind: Role edited again :from local local local
   metadata:
     creationTimestamp: null
     name: newpodview
