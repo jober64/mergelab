@@ -10,7 +10,7 @@ items:
     - ""
     attributeRestrictions: null
     resources:
-    - pods
+    - pods Change with no conflict
     verbs:
     - get edited from master
 kind: List
