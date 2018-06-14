@@ -1,7 +1,7 @@
 apiVersion: v1
 items:
 - apiVersion: v1
-  kind: Role edited again :from local local local ssh qqq sasasass
+  kind: Role edited again :from local local local ssh qqq hhh
   metadata:
     creationTimestamp: null
     name: newpodview
